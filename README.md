@@ -1,1 +1,1 @@
-# student_info
+# web technology
